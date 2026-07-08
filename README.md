@@ -11,5 +11,3 @@ Python 3.7.0
 Pytorch 1.8.0
 CuDNN 8.0.5
 ```
-## Contact
-Ziyang Chen (zychen@mail.nwpu.edu.cn)
